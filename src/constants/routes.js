@@ -1,0 +1,12 @@
+export const LANDING = '/';
+export const POST = '/post/';
+export const POSTS_ALL = '/posts/';
+export const POSTS_BUSINESS = '/business/';
+export const POSTS_SOCIAL = '/social/';
+export const POSTS_TECHNOLOGY = '/technology/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const ADMIN_POSTS = '/admin/posts';
+export const ADMIN_POSTS_CREATE = '/admin/posts/create';
+export const ADMIN_POSTS_EDIT = '/admin/posts/edit/';
+export const PASSWORD_FORGET = '/pw-forget';
